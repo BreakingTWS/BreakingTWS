@@ -9,7 +9,7 @@
 
 ![BreakerTW GitHub Stats](https://github-readme-stats.vercel.app/api?username=BreakingTWS&show_icons=true&theme=midnight-purple)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BreakerBox&theme=midnight-purple&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BreakingTWS&theme=midnight-purple&layout=compact)
 
 <h2 align="center">I leave the canal tools for you down here 👇</h2>
 
@@ -29,7 +29,7 @@
 
 ## Repositories:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BreakingBTWS&repo=CoBreak&theme=midnight-purple)](https://github.com/BreakingTWS/CoBreak.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BreakingTWS&repo=CoBreak&theme=midnight-purple)](https://github.com/BreakingTWS/CoBreak.git)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BreakerBox&repo=WibrFake&theme=midnight-purple)](https://github.com/BreakingTWS/WibrFake.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BreakingTWS&repo=WibrFake&theme=midnight-purple)](https://github.com/BreakingTWS/WibrFake.git)
 
