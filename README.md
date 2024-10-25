@@ -7,9 +7,9 @@
 <p align="center"I am a ruby programmer👨🏻💻<br/>in this Github account will be all the repositories created by me, I hope you like it👍</p>
 
 
-![BreakerTW GitHub Stats](https://github-readme-stats.vercel.app/api?username=BreakingTWS&show_icons=true&theme=holi&show_icons=true)
+![BreakerTW GitHub Stats](https://github-readme-stats.vercel.app/api?username=BreakingTWS&show_icons=true&theme=holi)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BreakingTWS&theme=holi&layout=compact&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BreakingTWS&theme=holi&layout=compact)
 
 <h2 align="center">I leave the canal tools for you down here 👇</h2>
 
