@@ -7,7 +7,7 @@
 <p align="center"I am a ruby programmer👨🏻💻<br/>in this Github account will be all the repositories created by me, I hope you like it👍</p>
 
 
-![BreakerTW GitHub Stats](https://github-readme-stats.vercel.app/api?username=BreakingTWS&show_icons=true&theme=holi)
+![BreakerTW GitHub Stats](https://github-readme-stats.vercel.app/api?username=BreakingTWS&show_icons=true&theme=holi&layout=compact&bg_color=000000&title_color=9813b9)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BreakingTWS&theme=holi&layout=compact&bg_color=000000&title_color=9813b9)
 
