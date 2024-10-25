@@ -4,7 +4,7 @@
 
 <h2 align="center">¡Hello 👋! I am BreakerTW 👨🏻‍💻</h2>
 
-<p align="center"I am a ruby programmer👨🏻💻<br/>in this Github account will be all the repositories created by me, I hope you like it👍</p>
+<p align="center"<br/>I am a ruby programmer👨🏻💻<br/>In this Github account will be all the repositories created by me, I hope you like it👍</p>
 
 
 ![BreakerTW GitHub Stats](https://github-readme-stats.vercel.app/api?username=BreakingTWS&show_icons=true&theme=holi&layout=compact&bg_color=000000&title_color=9813b9&icon_color=9813b9&border_color=9813b9)
