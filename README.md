@@ -9,7 +9,7 @@
 
 ![BreakerTW GitHub Stats](https://github-readme-stats.vercel.app/api?username=BreakingTWS&show_icons=true&theme=holi&layout=compact&bg_color=000000&title_color=9813b9&icon_color=9813b9&border_color=9813b9)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BreakingTWS&theme=holi&layout=compact&bg_color=000000&title_color=9813b9&border_color=9813b9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BreakingTWS&theme=holi&layout=compact&bg_color=000000&title_color=9813b9&border_color=9813b9&text_bold=true)
 
 <h2 align="center">I leave the canal tools for you down here 👇</h2>
 
