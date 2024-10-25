@@ -29,7 +29,7 @@
 
 ## Repositories:
 
-[![CoBreak Cracker](https://github-readme-stats.vercel.app/api/pin/?username=BreakingTWS&repo=CoBreak&theme=holi)](https://github.com/BreakingTWS/CoBreak.git)
+[![CoBreak Cracker](https://github-readme-stats.vercel.app/api/pin/?username=BreakingTWS&repo=CoBreak&theme=holi&layout=compact&bg_color=000000&title_color=9813b9)](https://github.com/BreakingTWS/CoBreak.git)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BreakingTWS&repo=WibrFake&theme=midnight-purple)](https://github.com/BreakingTWS/WibrFake.git)
 
