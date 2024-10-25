@@ -9,7 +9,7 @@
 
 ![BreakerTW GitHub Stats](https://github-readme-stats.vercel.app/api?username=BreakingTWS&show_icons=true&theme=midnight-purple)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BreakingTWS&theme=chartreuse-dark&layout=compact&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BreakingTWS&theme=neon&layout=compact&show_icons=true)
 
 <h2 align="center">I leave the canal tools for you down here 👇</h2>
 
