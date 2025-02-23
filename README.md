@@ -1,6 +1,5 @@
 ![foto](file.jpeg)
 
-
 <div align="center">
   <img height="150" src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif"  />
 </div>
@@ -20,6 +19,12 @@
   <a href="https://t.me/@BreakerTWS" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=BreakerTWS.BreakerTWS&"  />
 </div>
 
 ###
@@ -86,21 +91,31 @@
 
 ###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=BreakerTWS&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
+###
 
-![BreakerTWS GitHub Stats](https://github-readme-stats.vercel.app/api?username=BreakingTWS&show_icons=true&theme=holi&layout=compact&bg_color=000000&title_color=9813b9&icon_color=9813b9&border_color=9813b9&rank_icon=github)
+<img src="https://raw.githubusercontent.com/BreakerTWS/BreakerTWS/output/snake.svg" alt="Snake animation" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BreakingTWS&theme=holi&layout=compact&bg_color=000000&title_color=9813b9&border_color=9813b9&text_bold=true)
+###
 
-<h2 align="center">I leave the canal tools for you down here 👇</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BreakerTWS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BreakerTWS&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=BreakerTWS&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BreakerTWS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=BreakerTWS&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-[![CoBreak v1.0.4](https://img.shields.io/badge/CoBreak-1.0.4-blue)](https://github.com/BreakerTWS/CoBreak.git)
-[![WibrFake v0.0.1](https://img.shields.io/badge/WibrFake-0.0.1-blue)](https://github.com/BreakerTWS/WibrFake.git)
+###
+
 
 
 ## Repositories:
 
-[![CoBreak Cracker](https://github-readme-stats.vercel.app/api/pin/?username=BreakingTWS&repo=CoBreak&theme=holi&layout=compact&bg_color=000000&title_color=9813b9&icon_color=9813b9&border_color=9813b9)](https://github.com/BreakerTWS/CoBreak.git)
+[![CoBreak Cracker](https://github-readme-stats.vercel.app/api/pin/?username=BreakerTWS&repo=CoBreak&theme=holi&layout=compact&bg_color=000000&title_color=9813b9&icon_color=9813b9&border_color=9813b9)](https://github.com/BreakerTWS/CoBreak.git)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BreakingTWS&repo=WibrFake&theme=midnight-purple)](https://github.com/BreakerTWS/WibrFake.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BreakerTWS&repo=WibrFake&theme=midnight-purple)](https://github.com/BreakerTWS/WibrFake.git)
 
