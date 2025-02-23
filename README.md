@@ -106,12 +106,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/BreakerTWS/BreakerTWS/output/snake.svg" alt="Snake animation" />
-
-
-
-
-
 ## Repositories:
 
 [![CoBreak Cracker](https://github-readme-stats.vercel.app/api/pin/?username=BreakerTWS&repo=CoBreak&theme=holi&layout=compact&bg_color=000000&title_color=9813b9&icon_color=9813b9&border_color=9813b9)](https://github.com/BreakerTWS/CoBreak.git)
